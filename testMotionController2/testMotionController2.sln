@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testMotionController2.CSharp.Plugins", "testMotionController2.CSharp.Plugins.csproj", "{0DD2FAB8-295E-F909-50C6-A24D6069593D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testMotionController2.CSharp", "testMotionController2.CSharp.csproj", "{1B8F869D-4BDB-E39F-678A-48EEDFAB931D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testMotionController2.CSharp.Editor", "testMotionController2.CSharp.Editor.csproj", "{69A90E9F-1E51-FA99-EF77-24FFD3B7CFCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DD2FAB8-295E-F909-50C6-A24D6069593D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DD2FAB8-295E-F909-50C6-A24D6069593D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DD2FAB8-295E-F909-50C6-A24D6069593D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DD2FAB8-295E-F909-50C6-A24D6069593D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B8F869D-4BDB-E39F-678A-48EEDFAB931D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B8F869D-4BDB-E39F-678A-48EEDFAB931D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B8F869D-4BDB-E39F-678A-48EEDFAB931D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B8F869D-4BDB-E39F-678A-48EEDFAB931D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69A90E9F-1E51-FA99-EF77-24FFD3B7CFCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69A90E9F-1E51-FA99-EF77-24FFD3B7CFCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69A90E9F-1E51-FA99-EF77-24FFD3B7CFCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69A90E9F-1E51-FA99-EF77-24FFD3B7CFCD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
